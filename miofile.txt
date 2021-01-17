@@ -1,0 +1,24 @@
+totale 270452
+-rw-------  1 tom tom       186 lug  1  2020 2020-07-01-18-12-28.035-VBoxSVC-4641.log
+-rw-------  1 tom tom       239 lug 23 20:04 2020-07-23-18-04-04.025-VBoxSVC-3599.log
+-rw-------  1 tom tom       240 ago  5 15:14 2020-08-05-13-14-15.048-VBoxSVC-8775.log
+-rw-------  1 tom tom       241 gen  7 11:19 2021-01-07-10-19-10.098-VBoxSVC-33565.log
+-rwxr-xr-x  1 tom tom 276797487 ott 18  2017 Ampps-3.8-x86_64.run
+drwxr-xr-x  3 tom tom      4096 dic 28 10:12 Documenti
+drwxrwxr-x  3 tom tom      4096 mag  4  2019 eclipse-workspace
+-rw-r--r--  1 tom tom      8980 feb 25  2019 examples.desktop
+drwxr-xr-x  2 tom tom      4096 feb 22  2020 Immagini
+drwxrwxr-x 13 tom tom      4096 dic 19 01:39 incubator-superset
+drwxr-xr-x  2 tom tom      4096 feb 25  2019 Modelli
+-rw-rw-r--  1 tom tom     43009 nov  2  2019 mozilla.pdf
+drwxr-xr-x  2 tom tom      4096 feb 25  2019 Musica
+drwxrwxr-x  2 tom tom      4096 dic 22  2019 NetBeansProjects
+drwxrwxr-x  5 tom tom      4096 apr  1  2019 PhpstormProjects
+drwxr-xr-x  2 tom tom      4096 feb 25  2019 Pubblici
+drwxr-xr-x  3 tom tom      4096 gen  5 18:48 Scaricati
+drwxr-xr-x  3 tom tom      4096 ago 18 17:34 Scrivania
+drwxr-xr-x 11 tom tom      4096 gen 12 18:37 snap
+drwxrwxr-x  2 tom tom      4096 dic 30 16:41 temporary
+drwxrwxr-x  2 tom tom      4096 gen 16 16:38 testgit
+drwxr-xr-x  3 tom tom      4096 set 10  2019 Video
+drwxrwxr-x  4 tom tom      4096 giu 30  2020 VirtualBox VMs
